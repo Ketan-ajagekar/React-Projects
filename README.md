@@ -1,4 +1,4 @@
-I used each and every concepts in this projects which is used in REACT. 
+I used some concepts in this projects which is used in REACT. 
 
 and 
 
